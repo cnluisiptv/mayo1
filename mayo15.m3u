@@ -2,6 +2,49 @@
 #EXTINF:-1,tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/a35a0cd5b3c496c0.jpg"group-title="Creador",Soyluishn
 https://www.youtube.com/channel/UCETEefJkNIM43q9514WKktA/videos
 
+#EXTINF:-1,ESPN sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8690
+#EXTINF:-1,ESPN 2 sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/70752
+#EXTINF:-1,ESPN 3 sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3032
+#EXTINF:-1,WIN SPORTS+
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/65774
+#EXTINF:-1,FOX SPORTS sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/29299
+#EXTINF:-1,FOX SPORTS 2 sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3187
+#EXTINF:-1,FOX SPORTS 3 sur
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/10921
+#EXTINF:-1,DIRECTV
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/31645
+#EXTINF:-1,CLARO SPORTS
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3012
+#EXTINF:-1,TUDN us
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/121424
+#EXTINF:-1,TNT SPORTS ch
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/65769
+#EXTINF:-1,GOL TV ec
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9163
+#EXTINF:-1,MovistarF1
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1672
+#EXTINF:-1,TYC SPORTS
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/8749
+#EXTINF:-1,La.LIGA
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1141
+#EXTINF:-1,AZTECA 7
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/9026
+#EXTINF:-1,STAR ACTION
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3036
+#EXTINF:-1,DAZN 1
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/64711
+#EXTINF:-1,SPORT TV 1
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/1483
+#EXTINF:-1,CANAL 5 mx
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/3134
+#EXTINF:-1,UFC PASS
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/45649
+
 #EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9243911_ico.png?ts=1620578763"group-title="NUEVO",ZEEMUNDO
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
@@ -59,8 +102,7 @@ http://ultraplay.org:80/DANIEL13W/2019XTR/188
 http://ultraplay.org:80/DANIEL13W/2019XTR/189
 #EXTINF:-1,ESPN 3 sur
 http://ultraplay.org:80/DANIEL13W/2019XTR/190
-#EXTINF:-1,WIN SPORTS+
-https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index_1.m3u8?jc
+
 #EXTINF:-1,FOX PREMIUM ACTION
 http://ultraplay.org:80/DANIEL13W/2019XTR/197
 #EXTINF:-1,FOX SPORTS 
@@ -91,48 +133,7 @@ http://ytv.plus:25461/lupita/1234/1640
 http://ytv.plus:25461/lupita/1234/2938
 #EXTINF:-1,UFC FIGHT PASS
 http://ytv.plus:25461/lupita/1234/1915
-#EXTINF:-1,HBO
-http://tvporinternet.eshost.com.ar/m3u/hbo.m3u8
-#EXTINF:-1,beinsports
-http://tvporinternet.eshost.com.ar/m3u/beinsports.m3u8
-#EXTINF:-1,directvsports
-http://tvporinternet.eshost.com.ar/m3u/directvsports.m3u8
-#EXTINF:-1,Fox Sports sur
-http://tvporinternet.eshost.com.ar/m3u/foxsports.m3u8
-#EXTINF:-1,Fox Sports 2
-http://tvporinternet.eshost.com.ar/m3u/foxsports2.m3u8
-#EXTINF:-1,ESPN sur
-http://tvporinternet.eshost.com.ar/m3u/espn.m3u8
-#EXTINF:-1,ESPN 2
-http://tvporinternet.eshost.com.ar/m3u/espn2.m3u8
-#EXTINF:-1,fox
-http://tvporinternet.eshost.com.ar/m3u/fox.m3u8
-#EXTINF:-1,TNT 
-http://tvporinternet.eshost.com.ar/m3u/tnt.m3u8
-#EXTINF:-1,warner
-http://tvporinternet.eshost.com.ar/m3u/warner.m3u8
-#EXTINF:-1,Cartoon Network HQ
-http://tvporinternet.eshost.com.ar/m3u/cartoonnetwork.m3u8
-#EXTINF:-1,Disney Channel HQ
-http://tvporinternet.eshost.com.ar/m3u/disneychannel.m3u8
-#EXTINF:-1,Disney XD HQ
-http://tvporinternet.eshost.com.ar/m3u/disneyxd.m3u8
-#EXTINF:-1,Cinemax HQ
-http://tvporinternet.eshost.com.ar/m3u/cinemax.m3u8
-#EXTINF:-1,history
-http://tvporinternet.eshost.com.ar/m3u/historychannel.m3u8
-#EXTINF:-1 tvg-logo="http://dvbxtreme.com/wp-content/uploads/2017/02/SmartIPTV.jpg/" group-title="ENTRETENIMIENTO ",WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="CHILE", FM Hot | HD
-http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/3617319629/1ed867ab5e0cd767be32666dc8bf8d64.jpeg" group-title="PREMIUM", *** PREMIUM *** 
-https://storage.googleapis.com/eastern-bridge-234916.appspot.com/654987234/9f73cafd5b1b42635e88b7cc4c452b3e10090731432fe39c36396eb9561b86e6-G96hCJww0RXdGHUIWtR9.mp4 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DAXmZWE.png" group-title="CHILE",cachipum tv | HD
-http://edge1.cl.grupoz.cl/cachipuntv/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://images.eonline.com/eol_images/Entire_Site/2014516//rs_634x939-140616200855-634.Guardians-of-the-Galaxy-Posters.1.ms.061614.jpg" group-title="PELICULAS NUEVAS", Guardianes de la Galaxia
-https://goo.gl/sFaEVq
- 
+
  
  
  
@@ -495,11 +496,3 @@ https://ia601501.us.archive.org/29/items/discotqa_gmail_1.0/TiroLoco.mp4
 http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014%20%281%29.mkv
 #EXTINF:-1,LA NOVIA DE CHUCKY (1998)
 https://onedrive.live.com/download.aspx?resid=C9C239E3E567BD23!853&authkey=!AKSBrXTX9RUVsnU&ithint=video%2cmp4
- 
- 
- 
- 
-#EXTINF:-1,  ANGRY BIRDS
-http://cecegeek@goo.gl/3KGMLf
-#EXTINF:-1,  ASESINO DE LA CATTETERA
-http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4
