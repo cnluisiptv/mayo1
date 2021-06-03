@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1,tvg-logo="https://sgp1.digitaloceanspaces.com/quickcompany/trademark/a35a0cd5b3c496c0.jpg"group-title="Creador",Soyluishn
+https://www.youtube.com/channel/UCETEefJkNIM43q9514WKktA/videos
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9243911_ico.png?ts=1620578763"group-title="NUEVO",ZEEMUNDO
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9254472_ico.png?ts=1620577384"group-title="NUEVO",SONY
+https://sony-comedias-1.roku.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9221562_ico.png?ts=1620577492"group-title="NUEVO",SONY NOVELAS
+https://sony-novelas-1.roku.wurl.com:443/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4729724_ico.png?ts=1620577550"group-title="NUEVO",PORVENIR TV
+http://amixtv.com:8080/prtv/index.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4752544_ico.png?ts=1620577650"group-title="NUEVO",TELMUSICA
+https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:telemusica_all/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4752477_ico.png?ts=1620577766"group-title="NUEVO",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tltvweb.stream/chunklist_w1379507146.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4752818_ico.png?ts=1620577867"group-title="NUEVO",MEGA MUNDIAL
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/chunklist_w1262991099.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4912829_ico.png?ts=1620577931"group-title="NUEVO",GALAXIA
+http://amixtv.com:8080/galaxiatv/video.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5245507_ico.png?ts=1620577987"group-title="CATEGORÍAS",GENTV
+http://inliveserver.com:1935/14030/14030/chunklist_w759123130.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250387_ico.png?ts=1620578039"group-title="NUEVO",MOCHIS
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250463_ico.png?ts=1620578096"group-title="NUEVO",MAZATLAN
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250463_ico.png?ts=1620578096"group-title="CATEGORÍAS",OBREGON
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250463_ico.png?ts=1620578096"group-title="NUEVO",CULIACAN
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7005345_ico.png?ts=1620578293"group-title="NUEVO",EXTREMATV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10331409_ico.png?ts=1620578508"group-title="NUEVO",TUS MASCOTAS
+https://ia803400.us.archive.org/22/items/la-vida-secreta-de-las-mascotas-2/la%20vida%20secreta%20de%20las%20mascotas%202.MP4
+
+#EXTINF:-1,ESPN mx
+http://rv.imax.re:80/live/307217101614/307217101614/86939.ts
+#EXTINF:-1,ESPN 2 sur
+http://rv.imax.re:80/live/307217101614/307217101614/86938.ts
+#EXTINF:-1,ESPN 3 sur
+http://rv.imax.re:80/live/307217101614/307217101614/86937.ts
+#EXTINF:-1,WIN SPORTS
+http://rv.imax.re:80/live/307217101614/307217101614/87149.ts
+#EXTINF:-1,FOX SPORTS sur
+http://rv.imax.re:80/live/307217101614/307217101614/87102.ts
+#EXTINF:-1,FOX SPORTS 2 mx
+http://rv.imax.re:80/live/307217101614/307217101614/86935.ts
+#EXTINF:-1,FOX SPORTS 3 sur
+http://rv.imax.re:80/live/307217101614/307217101614/87100.ts
+#EXTINF:-1,DIRECTV
+http://rv.imax.re:80/live/307217101614/307217101614/87145.ts
+#EXTINF:-1,FOX SPORTS PREMIUM
+http://rv.imax.re:80/live/307217101614/307217101614/87099.ts
+#EXTINF:-1,TUDN us
+http://rv.imax.re:80/live/307217101614/307217101614/86934.ts
+#EXTINF:-1,TNT SPORTS ch
+http://rv.imax.re:80/live/307217101614/307217101614/87133.ts
+#EXTINF:-1,GOL TV ec
+http://rv.imax.re:80/live/307217101614/307217101614/87181.ts
+#EXTINF:-1,MovistarF1
+http://mag.you24.online:8080/0our45mb/kyr9gr9x3s/71971
+#EXTINF:-1,TYC SPORTS
+http://rv.imax.re:80/live/307217101614/307217101614/87090.ts
+#EXTINF:-1,La.LIGA
+http://rv.imax.re:80/live/307217101614/307217101614/79307.ts
+#EXTINF:-1,beIN SPORTS Ñ
+http://mag.you24.online:8080/0our45mb/kyr9gr9x3s/678747
+#EXTINF:-1,STAR ACTION
+http://rv.imax.re:80/live/307217101614/307217101614/87021.ts
+#EXTINF:-1,DAZN 1
+http://rv.imax.re:80/live/307217101614/307217101614/79293.ts
+#EXTINF:-1,SPORT TV 1
+http://rv.imax.re:80/live/307217101614/307217101614/81652.ts
+#EXTINF:-1,CANAL 5 mx
+http://rv.imax.re:80/live/307217101614/307217101614/86959.ts
+#EXTINF:-1,ELEVEN 1
+http://rv.imax.re:80/live/307217101614/307217101614/81642.ts
+#EXTINF:-1,M.LIGA CAMPEONES
+http://rv.imax.re:80/live/307217101614/307217101614/79309.ts
+#EXTINF:-1,WIN SPORTS+
+http://rv.imax.re:80/live/307217101614/307217101614/87146.ts
+#EXTINF:-1,GOL PERU
+http://rv.imax.re:80/live/307217101614/307217101614/87190.ts
