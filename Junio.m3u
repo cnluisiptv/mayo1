@@ -28,7 +28,7 @@ https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/chunklist_w126
 http://amixtv.com:8080/galaxiatv/video.m3u8
 
 #EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5245507_ico.png?ts=1620577987"group-title="CATEGORÍAS",GENTV
-http://inliveserver.com:1935/14030/14030/chunklist_w759123130.m3u8?PlaylistM3UCL
+https://videohd.live:19360/8010/8010.m3u8?TVFLIXHD
 
 #EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250387_ico.png?ts=1620578039"group-title="NUEVO",MOCHIS
 https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
@@ -53,51 +53,33 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10331409_ico.png?ts=1620578508"group-title="NUEVO",TUS MASCOTAS
 https://ia803400.us.archive.org/22/items/la-vida-secreta-de-las-mascotas-2/la%20vida%20secreta%20de%20las%20mascotas%202.MP4
 
-#EXTINF:-1,ESPN mx
-http://rv.imax.re:80/live/307217101614/307217101614/86939.ts
-#EXTINF:-1,ESPN 2 sur
-http://rv.imax.re:80/live/307217101614/307217101614/86938.ts
-#EXTINF:-1,ESPN 3 sur
-http://rv.imax.re:80/live/307217101614/307217101614/86937.ts
-#EXTINF:-1,WIN SPORTS
-http://rv.imax.re:80/live/307217101614/307217101614/87149.ts
-#EXTINF:-1,FOX SPORTS sur
-http://rv.imax.re:80/live/307217101614/307217101614/87102.ts
-#EXTINF:-1,FOX SPORTS 2 mx
-http://rv.imax.re:80/live/307217101614/307217101614/86935.ts
-#EXTINF:-1,FOX SPORTS 3 sur
-http://rv.imax.re:80/live/307217101614/307217101614/87100.ts
-#EXTINF:-1,DIRECTV
-http://rv.imax.re:80/live/307217101614/307217101614/87145.ts
-#EXTINF:-1,FOX SPORTS PREMIUM
-http://rv.imax.re:80/live/307217101614/307217101614/87099.ts
-#EXTINF:-1,TUDN us
-http://rv.imax.re:80/live/307217101614/307217101614/86934.ts
-#EXTINF:-1,TNT SPORTS ch
-http://rv.imax.re:80/live/307217101614/307217101614/87133.ts
-#EXTINF:-1,GOL TV ec
-http://rv.imax.re:80/live/307217101614/307217101614/87181.ts
-#EXTINF:-1,MovistarF1
-http://mag.you24.online:8080/0our45mb/kyr9gr9x3s/71971
-#EXTINF:-1,TYC SPORTS
-http://rv.imax.re:80/live/307217101614/307217101614/87090.ts
-#EXTINF:-1,La.LIGA
-http://rv.imax.re:80/live/307217101614/307217101614/79307.ts
-#EXTINF:-1,beIN SPORTS Ñ
-http://mag.you24.online:8080/0our45mb/kyr9gr9x3s/678747
-#EXTINF:-1,STAR ACTION
-http://rv.imax.re:80/live/307217101614/307217101614/87021.ts
-#EXTINF:-1,DAZN 1
-http://rv.imax.re:80/live/307217101614/307217101614/79293.ts
-#EXTINF:-1,SPORT TV 1
-http://rv.imax.re:80/live/307217101614/307217101614/81652.ts
-#EXTINF:-1,CANAL 5 mx
-http://rv.imax.re:80/live/307217101614/307217101614/86959.ts
-#EXTINF:-1,ELEVEN 1
-http://rv.imax.re:80/live/307217101614/307217101614/81642.ts
-#EXTINF:-1,M.LIGA CAMPEONES
-http://rv.imax.re:80/live/307217101614/307217101614/79309.ts
+#EXTINF:-1,TV PUBLICA
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/50521
+#EXTINF:-1,TIGO SPORTS
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/285
+#EXTINF:-1,CARACOL
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/65477
 #EXTINF:-1,WIN SPORTS+
-http://rv.imax.re:80/live/307217101614/307217101614/87146.ts
-#EXTINF:-1,GOL PERU
-http://rv.imax.re:80/live/307217101614/307217101614/87190.ts
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/196
+#EXTINF:-1,ECDF
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/65474
+#EXTINF:-1,TNT SPORTS cl
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/55289
+#EXTINF:-1,DIRECTV
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/58
+#EXTINF:-1,STAR ACTION
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/36
+#EXTINF:-1,ESPN
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/1363
+#EXTINF:-1,ESPN 2
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/71
+#EXTINF:-1,TyC SPORTS
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/1382
+#EXTINF:-1,CANAL 13 cl
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/209
+#EXTINF:-1,DAZN
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/53805
+#EXTINF:-1,AZTECA 7
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/63185
+#EXTINF:-1,CANAL 5 mx
+http://latinoamericatv.vip:8080/zxJs1wysCV/Db2vxyN6cl/63212
