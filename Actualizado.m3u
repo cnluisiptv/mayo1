@@ -1,0 +1,150 @@
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9254472_ico.png?ts=1624364859" group-title="Cine",Soyluishn
+https://youtu.be/ccxFrGTEDs4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png" group-title="Cine",HBO Family 
+http://158.69.116.209:25461/live/5ba6be2e31874f338875ad4f85c7f3c4/89ac69406bc149a1a898b112f47d9b50/7.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Hbo_plus.png" group-title="Cine",HBO PLUS
+http://158.69.116.209:25461/live/97c58d35f8434348adb3e2d20afb2223/62f309a1322b4e638de67fd79aff7623/9.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Amc.png/2000px-Amc.png" group-title="Cine",AMC HD
+http://209.126.105.238:25461/live/fa8da2376dd94b7aa6705681f71605c1/a99246f8981c4a829194c76ab7ef5dab/8.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cine_calidad.png/2000px-Cine_calidad.png" group-title="Cine",Cine Canal
+http://209.126.105.238:25461/live/a25b91f6c5e040779f8b4fb043c23363/97de4f55bb63442aa1e549b62657a69a/4.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://xtream-coders.com/x0/movie/HBOPLUS.png" group-title="Cine",HBO Mundi
+http://209.126.105.238:25461/live/d777b8f5063d40cda1e8e54a8221b41a/122f2b1b283c4c3ab4f3c15b368f7226/42.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Movistar_accion.png" group-title="Cine",Movistar Acc
+http://209.126.105.238:25461/live/0c5aff0753934aeeaf355a457576e1ad/59a63093e25c4c2eab5e7e90356a8453/16.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_dcine.png/2000px-Movistar_dcine.png" group-title="Cine",Movistar
+http://209.126.105.238:25461/live/1e076a18c19b417591803f78cc44d8e2/36a8a5fa0244432b8d945220ba2efe34/15.m3u8
+
+#EXTINF:-1 tvg-logo="URL PNG" group-title="Cine",Star AcciÃ³n
+http://ultraplay.org:80/DANIEL13W/2019XTR/197
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2015mega.png/20" group-title="Cine",Mega tv
+http://209.126.105.142:25461/live/30378764c857424ba373259595f91431/5332e5b486384eeaab73c658107337e7/24.m3u8
+
+#EXTINF:-1, Tlenovela
+http://209.126.124.36:31000/live/9f36a8d8128646cfb1c1424bed143846/8b3f41425b2d4dfebc684d0523774fbe/53.m3u8
+
+#EXTINF:-1, AE Mundo
+http://209.126.124.36:31000/live/24e88faff13c4ed0a15eaa6f97003b12/31225bab7b7a4703888f57e80c73cab4/50.m3u8
+
+ 
+
+#EXTINF:-1, FOX P ACTION
+http://ultraplay.org:80/DANIEL13W/2019XTR/197
+
+#EXTINF:-1, Golden Plus
+http://209.126.105.238:25461/live/9051962c0c8a4d0bac60a449703897dd/10ba59bcc2b3473aa7be0b48a42e74df/12.m3u8
+
+#EXTINF:-1, 24/7
+http://145.239.0.5:24400/live/00ff2fbda58442aeaed895d22fb907e9/4ddd06af417f44f0914707a14d4144d2/191.m3u8
+
+
+#EXTINF:-1, TCM
+http://209.126.124.36:31000/live/e5984bc5536344cf9ae959aa9d312191/c8b9cff12c534fa6885b6cbea15c2b27/52.m3u8
+
+#EXTINF:-1, TLC
+http://209.126.108.5:25461/live/dd4ef9d66da04e3d9138d77d27471d7d/3be3cd7bf4c742ee810eeb259252deb9/19.m3u8 
+
+#EXTINF:-1, TNT
+http://209.126.124.36:31000/live/49fb368f0a864c329d86d778fde1f392/3fa087a104dd439489e5e0e0ce1fa893/36.m3u8
+
+#EXTINF:-1, Cinemax
+http://158.69.116.209:25461/live/dc89dd3cd5c344989f1c08d61bc9b706/f6e07a1b037d42ba86f84a3b46639d15/3.m3u8 
+
+#EXTINF:-1, Star Comedy
+http://158.69.116.209:25461/live/ad832cfe5f1e49129088ed99b691951f/f8bec5980e0a403c80a3c936b153119c/29.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9243911_ico.png?ts=1620578763"group-title="NUEVO",ZEEMUNDO
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9254472_ico.png?ts=1620577384"group-title="NUEVO",SONY
+https://sony-comedias-1.roku.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9221562_ico.png?ts=1620577492"group-title="NUEVO",SONY NOVELAS
+https://sony-novelas-1.roku.wurl.com:443/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4729724_ico.png?ts=1620577550"group-title="NUEVO",PORVENIR TV
+http://amixtv.com:8080/prtv/index.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4752544_ico.png?ts=1620577650"group-title="NUEVO",TELMUSICA
+https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:telemusica_all/playlist.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4752477_ico.png?ts=1620577766"group-title="NUEVO",TOP LATINO
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tltvweb.stream/chunklist_w1379507146.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4752818_ico.png?ts=1620577867"group-title="NUEVO",MEGA MUNDIAL
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/chunklist_w1262991099.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4912829_ico.png?ts=1620577931"group-title="NUEVO",GALAXIA
+http://amixtv.com:8080/galaxiatv/video.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5245507_ico.png?ts=1620577987"group-title="CATEGORÃAS",GENTV
+http://inliveserver.com:1935/14030/14030/chunklist_w759123130.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250387_ico.png?ts=1620578039"group-title="NUEVO",MOCHIS
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250463_ico.png?ts=1620578096"group-title="NUEVO",MAZATLAN
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
+
+
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250463_ico.png?ts=1620578096"group-title="CATEGORÃAS",OBREGON
+https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250463_ico.png?ts=1620578096"group-title="NUEVO",CULIACAN
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/7005345_ico.png?ts=1620578293"group-title="NUEVO",EXTREMATV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/10331409_ico.png?ts=1620578508"group-title="NUEVO",TUS MASCOTAS
+https://ia803400.us.archive.org/22/items/la-vida-secreta-de-las-mascotas-2/la%20vida%20secreta%20de%20las%20mascotas%202.MP4
+
+#EXTINF:-1,ESPN sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/188
+#EXTINF:-1,ESPN 2 sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/189
+#EXTINF:-1,ESPN 3 sur
+http://ultraplay.org:80/DANIEL13W/2019XTR/190
+
+#EXTINF:-1,FOX PREMIUM ACTION
+http://ultraplay.org:80/DANIEL13W/2019XTR/197
+#EXTINF:-1,FOX SPORTS 
+http://ultraplay.org:80/DANIEL13W/2019XTR/206
+#EXTINF:-1,FOX SPORTS 2
+http://ultraplay.org:80/DANIEL13W/2019XTR/208
+#EXTINF:-1,FOX SPORTS 3
+http://ultraplay.org:80/DANIEL13W/2019XTR/210
+#EXTINF:-1,FOX SPORTS cl
+http://ultraplay.org:80/DANIEL13W/2019XTR/66495
+#EXTINF:-1,DIRECTV
+http://ultraplay.org:80/DANIEL13W/2019XTR/66500
+#EXTINF:-1,LA LIGA
+http://ultraplay.org:80/DANIEL13W/2019XTR/95863
+#EXTINF:-1,CLARO SPORTS
+http://ultraplay.org:80/DANIEL13W/2019XTR/170
+#EXTINF:-1,TUDN
+http://ultraplay.org:80/DANIEL13W/2019XTR/95821
+#EXTINF:-1,SKY SPORTS 
+http://ultraplay.org:80/DANIEL13W/2019XTR/95865
+#EXTINF:-1,TELECINCO
+http://ultraplay.org:80/DANIEL13W/2019XTR/53773
+#EXTINF:-1,AFIZZIONADOS
+http://ultraplay.org:80/DANIEL13W/2019XTR/95839
