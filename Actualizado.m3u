@@ -27,10 +27,10 @@ http://209.126.105.238:25461/live/0c5aff0753934aeeaf355a457576e1ad/59a63093e25c4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_dcine.png/2000px-Movistar_dcine.png" group-title="Cine",Movistar
 http://209.126.105.238:25461/live/1e076a18c19b417591803f78cc44d8e2/36a8a5fa0244432b8d945220ba2efe34/15.m3u8
 
-#EXTINF:-1 tvg-logo="URL PNG" group-title="Cine",Star AcciÃ³n
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Fox_action.png" group-title="Cine",Star Acción
 http://ultraplay.org:80/DANIEL13W/2019XTR/197
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2015mega.png/20" group-title="Cine",Mega tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/2015mega.png" group-title="Cine",Mega tv
 http://209.126.105.142:25461/live/30378764c857424ba373259595f91431/5332e5b486384eeaab73c658107337e7/24.m3u8
 
 #EXTINF:-1, Tlenovela
@@ -44,7 +44,8 @@ http://209.126.124.36:31000/live/24e88faff13c4ed0a15eaa6f97003b12/31225bab7b7a47
 #EXTINF:-1, FOX P ACTION
 http://ultraplay.org:80/DANIEL13W/2019XTR/197
 
-#EXTINF:-1, Golden Plus
+
+#EXTINF:-1 tvg-logo="https://telegratis.org/wp-content/uploads/2020/07/golden_plus.png" group-title="Cine",Golden Plus
 http://209.126.105.238:25461/live/9051962c0c8a4d0bac60a449703897dd/10ba59bcc2b3473aa7be0b48a42e74df/12.m3u8
 
 #EXTINF:-1, 24/7
@@ -91,7 +92,7 @@ https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/chunklist_w126
 #EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/4912829_ico.png?ts=1620577931"group-title="NUEVO",GALAXIA
 http://amixtv.com:8080/galaxiatv/video.m3u8
 
-#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5245507_ico.png?ts=1620577987"group-title="CATEGORÃAS",GENTV
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5245507_ico.png?ts=1620577987"group-title="CATEGORÍAS",GENTV
 http://inliveserver.com:1935/14030/14030/chunklist_w759123130.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250387_ico.png?ts=1620578039"group-title="NUEVO",MOCHIS
@@ -103,7 +104,7 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.
 
 
 
-#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250463_ico.png?ts=1620578096"group-title="CATEGORÃAS",OBREGON
+#EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250463_ico.png?ts=1620578096"group-title="CATEGORÍAS",OBREGON
 https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/5250463_ico.png?ts=1620578096"group-title="NUEVO",CULIACAN
@@ -148,3 +149,28 @@ http://ultraplay.org:80/DANIEL13W/2019XTR/95865
 http://ultraplay.org:80/DANIEL13W/2019XTR/53773
 #EXTINF:-1,AFIZZIONADOS
 http://ultraplay.org:80/DANIEL13W/2019XTR/95839
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="Cine",DHE
+http://209.126.124.36:31000/live/8e49781a399c465cb159e61123e46040/ebbca2d04a124714b13337fa2c3af801/6.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Cine",Sony Canal
+http://209.126.124.36:31000/live/e17cac2dab0d4b28a7fd37b063dac350/27baac9c5ebe4601a02a9205402e4ea1/20.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.png" group-title="Cine",Discovery
+http://209.126.108.5:25461/live/9d47c23115d048e3a508422a0ff5fa2b/bd18953e3d364e9cb20eb97f8301beb7/15.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/Comedy-Central-logo.png" group-title="Cine",Comedy
+http://209.126.108.5:25461/live/47d39476e29f4519abb792eed1b46b6f/7ab5b74c27a841c080d446bf2ad9a15b/27.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Cine",Nat Geo
+http://209.126.108.5:25461/live/9d47c23115d048e3a508422a0ff5fa2b/bd18953e3d364e9cb20eb97f8301beb7/15.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO" group-title="Cine",CANALNAME
+
+
+#EXTINF:-1 tvg-logo="https://images.vexels.com/media/users/3/136695/isolated/lists/41d59faadff9fbbfe97397b8a2dd1303-actualizar-icono.png" group-title="Cine",Actualizan...
